@@ -1,0 +1,40 @@
+_repo: Pausanias-description-of-Greece-Vol-I_68946
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Shilleto, A. R. (Arthur Richard)
+    alias: Shilleto, Arthur Richard
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '25957'
+    url: http://www.gutenberg.org/2009/agents/25957
+    wikipedia: https://en.wikipedia.org/wiki/Arthur_Richard_Shilleto
+creator:
+  author:
+    agent_name: Pausanias, active approximately 150-175
+    aliases:
+    - Παυσανίας
+    - Pausânias
+    gutenberg_agent_id: '54057'
+    url: http://www.gutenberg.org/2009/agents/54057
+    wikipedia: https://en.wikipedia.org/wiki/Pausanias_(geographer)
+description: ''
+gutenberg_issued: '2022-09-09'
+identifiers:
+  gutenberg: '68946'
+language: en
+pgterms:marc904: https://archive.org/details/pausaniasdescrip01pausuoft
+pgterms:marc905: 20190916163018pausnias
+pgterms:marc906: '1886'
+pgterms:marc907: UK
+production_note: Ian Crann, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: UK :George Bell and Sons,1886.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pausanias' description of Greece, Vol. I
+url: http://www.gutenberg.org/ebooks/68946
