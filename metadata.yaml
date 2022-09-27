@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '25957'
     url: http://www.gutenberg.org/2009/agents/25957
     wikipedia: https://en.wikipedia.org/wiki/Arthur_Richard_Shilleto
+covers:
+- cover_type: archival
+  image_path: 68946-h/images/cover.jpg
 creator:
   author:
     agent_name: Pausanias, active approximately 150-175
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54057
     wikipedia: https://en.wikipedia.org/wiki/Pausanias_(geographer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68946#Pausanias-description-of-Greece-Vol-I
 gutenberg_issued: '2022-09-09'
 identifiers:
   gutenberg: '68946'
